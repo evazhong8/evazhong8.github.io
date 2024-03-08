@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Change font for at least one element */
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #FFD1DC; /* Set background color for the entire page */
+  padding: 20px; /* Add padding around the entire page content */
+}
+
+/* Navigation section */
+nav {
+  background-color: #ff9999;
+  padding: 10px;
+}
+
+ul {
+  list-style-position: inside;
+}
+.unique-layout{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #FFD1DC; /* Set background color for the entire page */
+  padding: 20px; /* Add padding around the entire page content */
+  text-align: center;
+}
+
